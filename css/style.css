@@ -1,0 +1,98 @@
+* { padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: helvetica;
+    background-color: aqua;
+}
+
+/* cabeçalho */
+header {
+    color: black;
+    padding: 15px;
+    text-align: center;
+    border-bottom: 3px solid cornflowerblue;
+}
+
+/* grid de conteudos */
+.container {
+    min-height: 60vh;
+    padding: 50px;
+}
+
+.especication-container {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.section-neuropediatria {
+    margin: 0 auto;
+    padding: 1px;
+    padding-bottom: 5px;
+}
+
+.img-neuropediatria {
+    width: 260px;
+    height: 200px;
+}
+
+.neuropediatria {
+    width: 1000px;
+    display: inline-block;
+    padding: 5px auto;
+}
+
+.section-terapia-intensiva {
+    margin: 0 auto;
+}
+
+.fisioterapia-intensiva {
+    padding-bottom: 5px;
+}
+
+.img-terapia-intensiva {
+    display: inline-block;
+    width: 250px;
+    height: 150px;
+    margin: 0 auto;
+}
+
+h2 {
+    text-align: center;
+    padding-bottom: 3px;
+}
+
+.section-cardiorrespiratóri {
+    margin: 0 auto;
+}
+
+.img-cardio-resp {
+    display: inline-block;
+    width: 250px;
+    height: 150px;
+    margin: 0;
+}
+
+.img-ortopédica {
+    display: inline-block;
+    width: 250px;
+    height: 150px;
+    margin: 0;
+}
+
+.img-aquática {
+    width: 250px;
+    height: 150px;
+    margin:  0;
+}
+
+h3 {
+  font-size: 20px;
+  text-align: center;
+  padding-bottom: 3px;
+}
+
+p {
+    font-size: 16px;
+    padding-bottom: 3px;
+    width: 7   00px;
+}
